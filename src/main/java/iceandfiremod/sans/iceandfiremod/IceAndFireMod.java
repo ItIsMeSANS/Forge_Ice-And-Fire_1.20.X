@@ -1,4 +1,4 @@
-package net.sans.iceandfire;
+package iceandfiremod.sans.iceandfiremod;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
